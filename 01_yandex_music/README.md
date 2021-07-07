@@ -10,7 +10,7 @@ Perform preference comparison of Yandex.Music users from Moscow and St.Petersbur
 
 
 ## Data
-Listening data form Yandex.Music:
+Listening data from Yandex.Music:
 - Track name
 - Artist
 - Genre
